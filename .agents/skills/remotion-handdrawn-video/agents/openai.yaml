@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Hand-Drawn Video"
+  short_description: "Build code-native hand-drawn Remotion explainers"
+  default_prompt: "Use $remotion-handdrawn-video to turn my project and visual references into a native React, Remotion, and Rough.js explainer video."
